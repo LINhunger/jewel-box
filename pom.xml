@@ -17,8 +17,8 @@
     <modules>
         <module>cache-arrow</module>
         <module>storage-lucene</module>
+        <module>transfer-rpc</module>
         <module>transfer-springmvc</module>
-        <module>cache-arrow</module>
     </modules>
 
 </project>
